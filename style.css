@@ -1,0 +1,111 @@
+.tw-root--theme-dark .chat-room {
+  background: transparent;
+}
+.dTtjBt {
+  background-color: #000;
+  border-color: #000;
+}
+.tw-c-background-base {
+  background-color: #000 !important;
+}
+.channel-panels {
+  display: none;
+  margin-top: 1000px;
+}
+.channel-info-content {
+  display: none;
+  margin-top: 1000px;
+}
+.top-bar--pointer-enabled {
+  opacity: 0;
+}
+.tw-mg-t-1 {
+  margin-top: 0;
+}
+.chat-input {
+  position: absolute;
+  margin-left: 1000px;
+}
+.community-highlight-stack__card {
+  display: none;
+}
+.video-player video {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.user-notice-line {
+  display: none;
+}
+.top-bar {
+  padding: 0;
+  margin-bottom: 0;
+  background: none;
+}
+.tw-pd-b-1 {
+  padding-bottom: 0;
+}
+.simplebar-track.vertical {
+  display: none;
+}
+.player-controls {
+  background: black;
+}
+.simple-scroll-content {
+  background: #000;
+}
+.side-bar-contents {
+  background: #000;
+}
+.channel-leaderboard {
+  display: none;
+}
+#chat-room-header-label {
+  display: none;
+}
+.stream-info-card {
+  opacity: 0;
+}
+.ScBalloonWrapper-jzdqb5-0 {
+  margin-right: 45px;
+}
+.tw-mg-l-05 {
+  display: none;
+}
+.simplebar-content.side-nav__scrollable_content {
+  background: #000;
+}
+.simplebar-content {
+  padding-bottom: 17px;
+  margin-right: -17px;
+  cursor: default;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background: #000;
+}
+.simplebar-scroll-content {
+  background: #000;
+}
+.chat-scrollable-area__message-container {
+  background: #000;
+}
+.chat-message-highlight {
+  display: none;
+}
+.chat-line__message-highlight {
+  display: none;
+}
+.chat-line__reply-icon {
+  display: none;
+}
+
+.chat-input__textarea {
+  display: none;
+}
+.top-nav {
+  height: 0px;
+  z-index: 0;
+  display: none;
+}
